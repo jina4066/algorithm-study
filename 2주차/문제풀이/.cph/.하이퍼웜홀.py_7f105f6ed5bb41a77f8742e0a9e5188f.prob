@@ -1,0 +1,1 @@
+{"name":"Local: 하이퍼웜홀","url":"/Users/jina/project/algorithm-study/2주차/문제풀이/하이퍼웜홀.py","tests":[{"id":1746767733297,"input":"10 3\n21 88\n23 75\n97 35\n2 8\n67 9\n64 75\n65 71\n70 98\n9 71\n60 35","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/jina/project/algorithm-study/2주차/문제풀이/하이퍼웜홀.py","group":"local","local":true}
